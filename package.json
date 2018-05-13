@@ -1,0 +1,27 @@
+{
+  "name": "pinterest_clone",
+  "version": "1.0.0",
+  "description": "Share images that you find interesting and wish to share with the world.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://hcuffy@github.com/hcuffy/pinterest_clone.git"
+  },
+  "author": "Henry Cuffy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hcuffy/pinterest_clone/issues"
+  },
+  "homepage": "https://github.com/hcuffy/pinterest_clone#readme",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "body-parser": "^1.18.2",
+    "cookie-parser": "^1.4.3",
+    "express": "^4.16.3",
+    "mongoose": "^5.0.10",
+    "passport": "^0.4.0"
+  }
+}
